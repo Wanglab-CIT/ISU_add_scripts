@@ -1,1 +1,4 @@
-# ISU_add_scripts
+# isu_force_rosserial_pcbver
+ESP32のプログラム
+roslaunchが起動している時以外はLEDが光る
+wifi は子機
